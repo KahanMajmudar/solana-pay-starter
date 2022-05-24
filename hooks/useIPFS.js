@@ -1,13 +1,13 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect } from "react";
 
 const useIPFS = (hash, filename) => {
-  const [file, setFile] = useState(null);
+	const [file, setFile] = useState(null);
 
-  useEffect(() => {
-    setFile(`https://gateway.ipfscdn.io/ipfs/${hash}?filename=${filename}`);
-  }, []);
+	useEffect(() => {
+		setFile(`https://gateway.ipfscdn.io/ipfs/${hash}?filename=${filename}`);
+	}, []);
 
-  return file;
+	return file;
 };
 
 export default useIPFS;
