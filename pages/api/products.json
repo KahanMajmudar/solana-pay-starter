@@ -1,11 +1,20 @@
 [
-    {
-        "id": 1,
-        "name": "OG Meme pack",
-        "price": "0.99",
-        "description": "Get this fire emoji pack for only $0.99! Includes 3 rand memes!",
-        "image_url": "https://i.imgur.com/Sipl8Vq.png",
-        "filename": "Memes.zip",
-        "hash": "QmVdhVJsXCtUzaAr4uCK3utQWy24sLgNKJZaEKHrYu6QAm"
-    }
+  {
+    "id": 1,
+    "name": "OG Meme pack",
+    "price": "0.99",
+    "description": "Get this fire emoji pack for only $0.99! Includes 3 rand memes!",
+    "image_url": "https://i.imgur.com/Sipl8Vq.png",
+    "filename": "Memes.zip",
+    "hash": "QmVdhVJsXCtUzaAr4uCK3utQWy24sLgNKJZaEKHrYu6QAm"
+  },
+  {
+    "id": 2,
+    "name": "New Memes Pack",
+    "price": "1",
+    "image_url": "https://imgur.com/a/1y1EdWR.png",
+    "description": "New memes in the market",
+    "filename": "new_memes.zip",
+    "hash": "QmVRfCL5tMKydAvuxwqwPMBMPu3yjPt2J7V8YXN3b7qBja"
+  }
 ]
